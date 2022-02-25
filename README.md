@@ -1,5 +1,5 @@
 # Blockchain101
-A simple blockchain implementation
+A simple blockchain implementation using Flask
 
 A blockchain class supporting the following functionality:
  - Creating and adding a new block to the chain
